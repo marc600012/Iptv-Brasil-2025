@@ -151,222 +151,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.us@Brazil" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="Series",Documentarios
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band (1080p) [Geo-blocked]
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Record News (720p) [Geo-blocked]
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="News",TCM 10 HD (1080p)
-https://live.tcm10.com.br/tcm10hd/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV Series 1 As Panteras (480p)
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV Series 2 Mulher Bionica (480p)
-https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV Series 3 Star Trek (480p)
-https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV Series 4 Chips (480p)
-https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV Series 5 Guerra Sombra e Agua Fresca (480p)
-https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",#КТОКУДА
-http://camera.global-x.ru/MirUvlecheniy/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",(ONLINE) COSTA RICA:Radio 88 Stereo
-http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",(ONLINE) VISUAL RADIO
-http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",1+1
-http://6dc51851.megogo.xyz/iptv/UNQK8HXZHZWX73/994/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png" group-title="Undefined",1-2-3.tv
-https://123tv-mx1.flex-cdn.net/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",12 канал
-https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",12 канал (1080p)
-https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",1HD (Music) (US) (Spanish)
-http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E01
-http://62.210.209.138:41000/series/v52/v43/8050.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E02
-http://62.210.209.138:41000/series/v52/v43/8061.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E03
-http://62.210.209.138:41000/series/v52/v43/8072.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E04
-http://62.210.209.138:41000/series/v52/v43/8074.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E05
-http://62.210.209.138:41000/series/v52/v43/8075.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E06
-http://62.210.209.138:41000/series/v52/v43/8076.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E07
-http://62.210.209.138:41000/series/v52/v43/8077.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E08
-http://62.210.209.138:41000/series/v52/v43/8078.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E09
-http://62.210.209.138:41000/series/v52/v43/8079.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E10
-http://62.210.209.138:41000/series/v52/v43/8051.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E11
-http://62.210.209.138:41000/series/v52/v43/8052.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E12
-http://62.210.209.138:41000/series/v52/v43/8053.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E13
-http://62.210.209.138:41000/series/v52/v43/8054.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E14
-http://62.210.209.138:41000/series/v52/v43/8055.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E15
-http://62.210.209.138:41000/series/v52/v43/8056.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E16
-http://62.210.209.138:41000/series/v52/v43/8057.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E17
-http://62.210.209.138:41000/series/v52/v43/8058.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E18
-http://62.210.209.138:41000/series/v52/v43/8059.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E19
-http://62.210.209.138:41000/series/v52/v43/8060.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E20
-http://62.210.209.138:41000/series/v52/v43/8062.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E21
-http://62.210.209.138:41000/series/v52/v43/8063.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E22
-http://62.210.209.138:41000/series/v52/v43/8064.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E23
-http://62.210.209.138:41000/series/v52/v43/8065.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E24
-http://62.210.209.138:41000/series/v52/v43/8066.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E25
-http://62.210.209.138:41000/series/v52/v43/8067.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E26
-http://62.210.209.138:41000/series/v52/v43/8068.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E27
-http://62.210.209.138:41000/series/v52/v43/8069.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E28
-http://62.210.209.138:41000/series/v52/v43/8070.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E29
-http://62.210.209.138:41000/series/v52/v43/8071.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2020 S01 E30
-http://62.210.209.138:41000/series/v52/v43/8073.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2×2
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_2X2/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2×2 +2
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_2X2_2/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2×2 +4
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_2X2_4/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2×2 +6
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_2X2_7/variant.m3u8?version=2&offset=-3600&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",2×2 +7
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_2X2_7/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/l2O0fY1.png" group-title="Hobby",30A Darcizzle Offshore
-https://30a-tv.com/darcizzle.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
-https://30a-tv.com/music.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",30A Music
-http://30a-tv.com/music.m3u8?iptvm3uplaylists.m3u8&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="Undefined",30A Sidewalks
-https://30a-tv.com/sidewalks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="Undefined",30A TV
-https://30a-tv.com/my999.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="Local",30A TV (720p)
-https://30a-tv.com/feeds/xodglobal/30atv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="Undefined",30A The Beach Show
-https://30a-tv.com/beachy.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg" group-title="Undefined",34100 TV
-https://s1.cystream.net/live/34100/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",360 HD
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="General",360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",360° (1080p) [Not 24/7]
-https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="News",360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",360° Новости HD
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious",3ABN International
-https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.mitvstatic.com/channels/hn_3abn-latino_m.png" group-title="Undefined",3ABN Latino (720p)
-https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/t6Ydwqg.png" group-title="Music",3ABN Praise Him Music Network (720p)
-https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="Religious",3ABN Russia
-https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",3afroto.1999
-http://62.210.209.138:41000/movie/v52/v43/1.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",43 канал HD
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",49 канал (Новосибирск)
-https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png" group-title="Undefined",4E
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/c59VWgF.jpg" group-title="Music",4FUN TV
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",5 Канал
-https://streaming.goodstream.cyou/live/8.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",5 Канал
-https://streaming.skynetconnect.online/live/8.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General",5 канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",50M S01 E01
-http://62.210.209.138:41000/series/v52/v43/7398.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",50M S01 E02
-http://62.210.209.138:41000/series/v52/v43/7399.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",50M S01 E03
-http://62.210.209.138:41000/series/v52/v43/7400.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",50M S01 E04
-http://62.210.209.138:41000/series/v52/v43/7401.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",50M S01 E05
-http://62.210.209.138:41000/series/v52/v43/7402.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",50M S01 E06
-http://62.210.209.138:41000/series/v52/v43/7403.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",50M S01 E07
-http://62.210.209.138:41000/series/v52/v43/7404.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",50M S01 E08
-http://62.210.209.138:41000/series/v52/v43/7405.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg" group-title="Undefined",555 Hunt Fishing TV HD
-http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",6 ТВ горловка HD
-http://91.237.3.3:4022/udp/224.2.2.4:10000?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/Wuy9Vtn.png" group-title="Entertainment",7 TV
-http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E01
-http://62.210.209.138:41000/series/v52/v43/1403.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E02
-http://62.210.209.138:41000/series/v52/v43/1404.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E03
-http://62.210.209.138:41000/series/v52/v43/1405.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E04
-http://62.210.209.138:41000/series/v52/v43/1406.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E05
-http://62.210.209.138:41000/series/v52/v43/1407.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E06
-http://62.210.209.138:41000/series/v52/v43/1408.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E07
-http://62.210.209.138:41000/series/v52/v43/1409.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E08
-http://62.210.209.138:41000/series/v52/v43/1410.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E09
-http://62.210.209.138:41000/series/v52/v43/1411.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E10
-http://62.210.209.138:41000/series/v52/v43/1412.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E11
-http://62.210.209.138:41000/series/v52/v43/1413.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E12
-http://62.210.209.138:41000/series/v52/v43/1414.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E13
-http://62.210.209.138:41000/series/v52/v43/1415.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E14
-http://62.210.209.138:41000/series/v52/v43/1416.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E15
-http://62.210.209.138:41000/series/v52/v43/1417.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E16
-http://62.210.209.138:41000/series/v52/v43/1418.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E17
-http://62.210.209.138:41000/series/v52/v43/1419.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E18
-http://62.210.209.138:41000/series/v52/v43/1420.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E19
-http://62.210.209.138:41000/series/v52/v43/1421.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",7rof-elhga2 S01 E20
-http://62.210.209.138:41000/series/v52/v43/1422.mp4?checkedby:iptvcat.com
 #EXTINF:-1 group-title="DESENHOS 24H", 081 SOUTH PARK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53f168-eca6-11ee-861d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
 #EXTINF:-1 group-title="DESENHOS 24H", 082 PICA PAU
@@ -381,22 +165,12 @@ http://granpirosh.top/live/841866657/c581b7318b/555764.m3u8
 http://granpirosh.top/live/841866657/c581b7318b/18297.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 004 TV BRASIL
 http://granpirosh.top/live/841866657/c581b7318b/364678.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 005 TV CAMARA
-http://granpirosh.top/live/841866657/c581b7318b/368851.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 006 TV JUSTICA
-http://granpirosh.top/live/841866657/c581b7318b/177.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 007 TV CULTUTA
 http://granpirosh.top/live/841866657/c581b7318b/364662.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 008 TV SENADO
-http://granpirosh.top/live/841866657/c581b7318b/368850.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 009 CANCAO NOVA
-http://granpirosh.top/live/841866657/c581b7318b/240806.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 010 SBT NACIONAL
 http://granpirosh.top/live/841866657/c581b7318b/244161.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 011 GLOBO SP
 http://granpirosh.top/live/841866657/c581b7318b/289881.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 011 GLOBO SP IPTV 2038
-http://ap4x.online/live/ONNEPLAY/0511605511/3787179.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 012 RECORD SP
 http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 013 REDE TV!
@@ -425,22 +199,6 @@ http://granpirosh.top/live/841866657/c581b7318b/228.m3u8
 http://granpirosh.top/live/841866657/c581b7318b/235.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 025 COMBATE
 http://granpirosh.top/live/841866657/c581b7318b/240.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 026 PREMIERE CLUBERS 1
-http://granpirosh.top/live/841866657/c581b7318b/494.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 027 PREMIERE 2
-http://granpirosh.top/live/841866657/c581b7318b/499.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 028 PREMIERE 3
-http://granpirosh.top/live/841866657/c581b7318b/504.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 029 PREMIERE 4
-http://granpirosh.top/live/841866657/c581b7318b/509.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 030 PREMIERE 5
-http://granpirosh.top/live/841866657/c581b7318b/514.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 031 PREMIERE 6
-http://granpirosh.top/live/841866657/c581b7318b/519.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 032 PREMIERE 7
-http://granpirosh.top/live/841866657/c581b7318b/519.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 033 PREMIERE 8
-http://granpirosh.top/live/841866657/c581b7318b/380749.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 034 HGTV
 http://granpirosh.top/live/841866657/c581b7318b/2627.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 035 DISCOVERY CHANNEL
